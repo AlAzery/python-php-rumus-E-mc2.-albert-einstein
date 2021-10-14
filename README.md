@@ -1,7 +1,8 @@
 # python-php-rumus-E-mc2.-albert-einstein
 
 <h5>copy script php</h5>
-```php
+````php
+
    <?php
 echo("==================  Rumus Albert einstein: E = mc2 ==================");
 echo("=====================================================================");
@@ -25,4 +26,4 @@ print("**********************************************************************");
 print("maka E yang di hasilkan dari $m kg, dengan waktu $c s/m adalah ");
 print($E);
 echo(" ");
-```
+````
