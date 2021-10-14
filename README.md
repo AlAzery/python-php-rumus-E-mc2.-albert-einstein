@@ -30,7 +30,9 @@ echo(" ");
 
 <h5>copy script python</h5>
 
-````pip install tqdm````
+````txt
+pip install tqdm
+````
 
 ````python
 from tqdm import tqdm
