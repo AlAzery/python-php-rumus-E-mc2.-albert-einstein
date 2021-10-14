@@ -1,4 +1,4 @@
-# python-php-rumus-E-mc2.-albert-einstein
+# rumus E-mc2 albert-einstein
 
 <h5>copy script php</h5>
 
