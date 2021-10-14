@@ -1,8 +1,8 @@
 # python-php-rumus-E-mc2.-albert-einstein
 
 <h5>copy script php</h5>
-````php
 
+````php
    <?php
 echo("==================  Rumus Albert einstein: E = mc2 ==================");
 echo("=====================================================================");
